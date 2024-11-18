@@ -1,0 +1,10 @@
+% gpg
+
+# gpg version
+gpg --version
+
+# gpg 加密文件
+gpg -c <file_name>
+
+# gpg 解密文件
+gpg -d <file_name>
